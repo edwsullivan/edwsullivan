@@ -1,4 +1,4 @@
-## Hi
+## Hi there
 
 This is a workspace for learning by building.
 
