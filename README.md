@@ -1,6 +1,6 @@
 ## Hi
 
-This GitHub is a workspace for learning by building.
+This is a workspace for learning by building.
 
 In my current role, I’m leading work related to data transformation, which has pushed me to better understand how data, tools, and systems fit together in practice.
 
